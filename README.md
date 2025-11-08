@@ -59,6 +59,5 @@ If you’d like to add your own interview experience:
 ## ⭐ Support
 If this repo helps you, please **star 🌟 the repository** — it motivates me to keep updating new company questions!
 
+**Created by:** [Poonam Banasode](https://github.com/poonam-gif)  
 
-**Created by:** [Your Name](https://github.com/your-username)  
-📍 _Auto_
